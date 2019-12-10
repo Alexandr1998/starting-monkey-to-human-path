@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library><readers firstName="LOL" secondName="KEK">
+    <book genre="NOVEL"><author><firstName>Эрик</firstName>
+        <secondName>Шпикерман</secondName>
+    </author><name>Пёся</name>
+        <printYear>2019</printYear>
+    </book><takeDate day="16" month="12" year="2019"/>
+</readers>
+</library>
