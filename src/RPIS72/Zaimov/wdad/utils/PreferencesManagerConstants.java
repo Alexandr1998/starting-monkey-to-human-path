@@ -1,10 +1,10 @@
 package RPIS72.Zaimov.wdad.utils;
 
 public interface PreferencesManagerConstants {
-    public static String createregistry = "appconfig.rmi.server.registry.createregistry";
-    public static String registryaddress = "appconfig.rmi.server.registry.registryaddress";
-    public static String registryport = "appconfig.rmi.server.registry.registryport";
-    public static String policypath = "appconfig.rmi.client.policypath";
-    public static String usecodebaseonly = "appconfig.rmi.client.usecodebaseonly";
-    public static String classprovider = "appconfig.rmi.classprovider";
+    String CREATE_REGISTRY = "appconfig.rmi.server.registry.createregistry";
+    String REGISTRY_ADDRESS = "appconfig.rmi.server.registry.registryaddress";
+    String REGISTRY_PORT = "appconfig.rmi.server.registry.registryport";
+    String POLICY_PATH = "appconfig.rmi.client.policypath";
+    String USE_CODEBASE_ONLY = "appconfig.rmi.client.usecodebaseonly";
+    String CLASS_PROVIDER = "appconfig.rmi.classprovider";
 }

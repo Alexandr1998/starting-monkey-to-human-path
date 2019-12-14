@@ -20,7 +20,7 @@ public class Book {
         printYear = null;
     }
 
-    public Book(Author author, String name, String printyear, Genre genre, String takeDate) {
+    public Book(Author author, String name, String printyear, Genre genre) {
         this.author = author;
         this.name = name;
         this.printYear = printyear;
