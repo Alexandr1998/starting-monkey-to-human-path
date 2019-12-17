@@ -84,6 +84,5 @@ public class JDBCDataManager {
         resultSet.close();
         statement.close();
         connection.close();
-
     }
 }
